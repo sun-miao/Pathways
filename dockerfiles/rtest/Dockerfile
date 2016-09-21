@@ -23,10 +23,12 @@ RUN echo 'debconf debconf/frontend select Noninteractive' | debconf-set-selectio
 
 RUN echo 'source("http://bioconductor.org/biocLite.R"); biocLite(c("supraHex", "graph", "Rgraphviz", "Biobase"));q()'|R --no-save
 
-
 RUN echo 'install.packages("devtools", repos="http://cran.r-project.org", clean=TRUE);q()' | R --no-save \
     && echo 'devtools::install_version("data.table", "1.9.6", repos="http://cran.r-project.org", clean=TRUE);q()' | R --no-save \
     && echo 'devtools::install_version("igraph", "1.0.1", repos="http://cran.r-project.org", clean=TRUE);q()' | R --no-save \
     && echo 'devtools::install_version("dnet", "1.0.9", repos="http://cran.r-project.org", clean=TRUE);q()' | R --no-save \
     && echo 'devtools::install_version("argparse", "1.0.1", repos="http://cran.r-project.org", clean=TRUE);q()' | R --no-save \
     && echo 'devtools::install_version("jsonlite", "1.0", repos="http://cran.r-project.org", clean=TRUE);q()' | R --no-save
+
+COPY Rscripts/pathway_services_hgtest.R /scripts/
+COPY Inputs/* /scripts/  
