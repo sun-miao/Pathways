@@ -155,7 +155,7 @@ gs_file <- 'pathway_maps_objects_08252016.csv'
 
 # Prepare input files
 
-cat('Loading input files...\n')
+# cat('Loading input files...\n')
 genesets <- prepareGS(in_dir, gs_file)
 
 g2id <- read.table(paste(in_dir, g2id_file, sep=""), header=TRUE)  
@@ -171,7 +171,7 @@ object_list <- objects_ordered_df$object_id
 
 # Run test
 
-cat('Start test...\n')
+# cat('Start test...\n')
 gs_hyper_passed <- run_phyper2(objects_ordered_df, genesets, ltype='object_id', ob_num=args$obnum, p_adjust_method=args$padj, min_overlap=3)
 # gs_hyper_passed <- run_phyper2(objects_ordered_df, genesets, ltype='object_id', ob_num=200, p_adjust_method='fdr', min_overlap=3)
 
@@ -180,7 +180,6 @@ toJSON(top_hg)
 # write.table(top_hg, file=paste(outdir, '/hgout.txt', sep=''), sep='\t', quote=FALSE, row.names=FALSE)
 
 
-# toJSON(top_hg)
-proc.time()-time1
-cat('Done\n')
+# proc.time()-time1
+# cat('Done\n')
 quit('no')
