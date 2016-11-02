@@ -1,0 +1,363 @@
+{
+  "count": 89, 
+  "start": 3,
+  "offset": 4,
+  "data": [
+    {
+      "gene": "PLA2G2C-UBXN10-AS1", 
+      "pvalue": 0.060700524439199995
+    }, 
+    {
+      "gene": "AK2", 
+      "pvalue": 0.0160010834134
+    }, 
+    {
+      "gene": "LPAR3-MCOLN2", 
+      "pvalue": 0.0003723524564930001
+    }, 
+    {
+      "gene": "CDC7-TGFBR3", 
+      "pvalue": 7.93190532145e-08
+    }, 
+    {
+      "gene": "LINC01160", 
+      "pvalue": 0.032149163261
+    }, 
+    {
+      "gene": "MMP19", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "KCCAT198-C12orf75", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "DDX55", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "LINC00354-LINC00403", 
+      "pvalue": 6.66962665097e-08
+    }, 
+    {
+      "gene": "GABRG3", 
+      "pvalue": 1.29972140828e-07
+    }, 
+    {
+      "gene": "LOC339166", 
+      "pvalue": 1.83069103565e-06
+    }, 
+    {
+      "gene": "DNAH9", 
+      "pvalue": 9.06890143226e-06
+    }, 
+    {
+      "gene": "IMPACT", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "ADGRL1-ADGRE5", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "ZNF675-ZNF681", 
+      "pvalue": 0.00169120555398
+    }, 
+    {
+      "gene": "HPN-AS1", 
+      "pvalue": 0.009192689250489999
+    }, 
+    {
+      "gene": "SLC20A1-CKAP2L", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "TRIM59", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "LINC01014-KCNMB2-AS1", 
+      "pvalue": 0.006558292766579999
+    }, 
+    {
+      "gene": "LOC100130872", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "UNC5C", 
+      "pvalue": 1.29256272352e-10
+    }, 
+    {
+      "gene": "ANKH-LOC101929454", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "OCLN", 
+      "pvalue": 0.012054209664700001
+    }, 
+    {
+      "gene": "LOC102467213-EFNA5", 
+      "pvalue": 2.37976102491e-07
+    }, 
+    {
+      "gene": "ALDH7A1", 
+      "pvalue": 0.000664259244912
+    }, 
+    {
+      "gene": "HIST1H4H-BTN3A2", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "HLA-C-HLA-B", 
+      "pvalue": 0.000664259244912
+    }, 
+    {
+      "gene": "GSTA3-GSTA4", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "FAM46A-LINC01526", 
+      "pvalue": 0.000227561755998
+    }, 
+    {
+      "gene": "NDUFAF4", 
+      "pvalue": 0.0386173373613
+    }, 
+    {
+      "gene": "ATG5-AIM1", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "PPP1R14C-IYD", 
+      "pvalue": 5.2326078544599995e-06
+    }, 
+    {
+      "gene": "ADCYAP1R1", 
+      "pvalue": 0.0029510279224600005
+    }, 
+    {
+      "gene": "CDHR3", 
+      "pvalue": 0.00011892322516600001
+    }, 
+    {
+      "gene": "SDR16C6P-PENK", 
+      "pvalue": 0.000375568039316
+    }, 
+    {
+      "gene": "SLC26A7-RUNX1T1", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "LOC102724804", 
+      "pvalue": 0.00286888142048
+    }, 
+    {
+      "gene": "DPYS", 
+      "pvalue": 0.00286888142048
+    }, 
+    {
+      "gene": "SPATA31C1-CDK20", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "UBE2E4P-GLRA2", 
+      "pvalue": 4.42717928484e-06
+    }, 
+    {
+      "gene": "CASK", 
+      "pvalue": 4.92876626068e-07
+    }, 
+    {
+      "gene": "HS6ST2", 
+      "pvalue": 9.06890143226e-06
+    }, 
+    {
+      "gene": "GPR153", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "PLCB3", 
+      "pvalue": 0.000375568039316
+    }, 
+    {
+      "gene": "DENND1C-TUBB4A", 
+      "pvalue": 4.64732860158e-05
+    }, 
+    {
+      "gene": "CDKN2D", 
+      "pvalue": 3.09141073016e-05
+    }, 
+    {
+      "gene": "LOC101930071", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "HLCS-RIPPLY3", 
+      "pvalue": 0.0050136448745000005
+    }, 
+    {
+      "gene": "LOC102723780-LOC102723769", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "CYB5R3-A4GALT", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "MECOM-TERC", 
+      "pvalue": 9.06890143226e-06
+    }, 
+    {
+      "gene": "ZBTB22", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "SPDEF", 
+      "pvalue": 0.0047867989408
+    }, 
+    {
+      "gene": "UFL1", 
+      "pvalue": 0.0026971472914399997
+    }, 
+    {
+      "gene": "OLIG3", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "EXOSC2", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "SCARNA13", 
+      "pvalue": 0.0315245545964
+    }, 
+    {
+      "gene": "DYNAP", 
+      "pvalue": 0.000527521028564
+    }, 
+    {
+      "gene": "SLF1-MCTP1", 
+      "pvalue": 0.00228654970534
+    }, 
+    {
+      "gene": "PNPLA8-THAP5", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "TESK1", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "ATP1B4", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "NCSTN", 
+      "pvalue": 0.00286888142048
+    }, 
+    {
+      "gene": "TEX12", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "VRTN", 
+      "pvalue": 0.00286888142048
+    }, 
+    {
+      "gene": "SLC38A8-MBTPS1", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "CYP4F8-CYP4F3", 
+      "pvalue": 3.24209276188e-05
+    }, 
+    {
+      "gene": "CABP4", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "BHLHE22-CYP7B1", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "TSACC-RHBG", 
+      "pvalue": 0.00286888142048
+    }, 
+    {
+      "gene": "MIR8060", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "TCEAL7", 
+      "pvalue": 0.00012269931718
+    }, 
+    {
+      "gene": "TSEN34-RPS9", 
+      "pvalue": 0.0484134418874
+    }, 
+    {
+      "gene": "ZNF789", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "SNORA38", 
+      "pvalue": 0.004646341716560001
+    }, 
+    {
+      "gene": "POLR3D-PIWIL2", 
+      "pvalue": 0.034925211971100004
+    }, 
+    {
+      "gene": "OR2L5", 
+      "pvalue": 3.22198676681e-05
+    }, 
+    {
+      "gene": "ABHD10-TAGLN3", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "TM2D3", 
+      "pvalue": 0.000931300535872
+    }, 
+    {
+      "gene": "HIST1H2BA", 
+      "pvalue": 0.0854107682213
+    }, 
+    {
+      "gene": "LINC01225-LINC01226", 
+      "pvalue": 0.014430048241299998
+    }, 
+    {
+      "gene": "HIST2H3A", 
+      "pvalue": 0.0074627729403
+    }, 
+    {
+      "gene": "TMED8-SAMD15", 
+      "pvalue": 1.0
+    }, 
+    {
+      "gene": "SEPT2-FARP2", 
+      "pvalue": 0.42923922821099997
+    }, 
+    {
+      "gene": "RPS5-RNF225", 
+      "pvalue": 0.304735358906
+    }, 
+    {
+      "gene": "ZFAND2A-LOC101927021", 
+      "pvalue": 0.0719949735409
+    }, 
+    {
+      "gene": "MYH14-KCNC3", 
+      "pvalue": 0.275461625649
+    }, 
+    {
+      "gene": "STK3-OSR2", 
+      "pvalue": 0.00286888142048
+    }, 
+    {
+      "gene": "ZGLP1-FDX1L", 
+      "pvalue": 1.0
+    }
+  ]
+}
